@@ -1,0 +1,8 @@
+{
+  "name": "rts-qr-video",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "4d587ef0"
+}
